@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caius!
 - 🌱 I’m currently learning how to use Git and other data science tools.
 - 💞️ I’m looking to collaborate in the whole research data lifecycle.
-- 👀 Other than data stuff, I’m interested in bouldering and electric skateboards :D
+- 👀 Other than data stuff, I’m interested in bouldering, gaming, and electric skateboards :D
 - 📫 You can reach me at caius.ribeiro@iki.fi, [ResearchGate](https://www.researchgate.net/profile/Caius-Ribeiro-Kumara), [LinkedIn](https://www.linkedin.com/in/caius-tomas-ribeiro-kumara-486b67a3/)
 
 <!---
