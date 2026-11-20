@@ -1,6 +1,15 @@
 ## Hi, I'm Caius 👋
 
-Data Developer based in Helsinki, Finland, building end-to-end BI solutions with **Power BI**, **SQL**, **Snowflake** and **Microsoft Fabric**. My background is in environmental science: I'm completing a Doctor of Science at the University of Helsinki, researching how forest fires affect soil greenhouse gas emissions, with the analysis done in **R** and **JMP**.
+Data Developer at [Aitomation](https://aitomation.fi/) in Helsinki, Finland. I design, build and maintain end-to-end BI solutions for customers, from data pipelines and data models to Power BI reports, using **Power BI**, **DAX**, **SQL**, **Snowflake** and **Microsoft Fabric**. I work closely with customers throughout the development cycle, so that solutions fit their business needs and follow modern BI practices.
+
+### At Aitomation
+- Started as a trainee and grew into the Data Developer role
+- Develop and maintain Power BI reports for customer projects
+- Specialise in DAX, data modelling and visualisation best practices
+- Build end-to-end BI solutions with Snowflake, Microsoft Fabric, AWS, Power Automate, Python and Terraform
+
+### Research background
+Before moving into BI, I researched how forest fires affect soil greenhouse gas emissions at the University of Helsinki, analysing data in **R** and **JMP**. My doctoral studies are currently on hold. I hold an MSc in Forest Sciences (University of Helsinki) and a BEng in Forestry (Federal University of Espírito Santo).
 
 🌐 **Portfolio:** [c-riku.github.io/caius](https://c-riku.github.io/caius/)
 
