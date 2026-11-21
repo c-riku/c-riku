@@ -11,7 +11,7 @@ Data Developer at [Aitomation](https://aitomation.fi/) in Helsinki, Finland. I d
 ### Research background
 Before moving into BI, I researched how forest fires affect soil greenhouse gas emissions at the University of Helsinki, analysing data in **R** and **JMP**. My doctoral studies are currently on hold. I hold an MSc in Forest Sciences (University of Helsinki) and a BEng in Forestry (Federal University of Espírito Santo).
 
-🌐 **Portfolio:** [c-riku.github.io](https://c-riku.github.io/)
+🌐 **Portfolio:** [c-riku.github.io](https://c-riku.github.io/) · short link [iki.fi/caius.ribeiro](https://iki.fi/caius.ribeiro)
 
 ### Featured work
 
