@@ -11,16 +11,16 @@ Data Developer at [Aitomation](https://aitomation.fi/) in Helsinki, Finland. I d
 ### Research background
 Before moving into BI, I researched how forest fires affect soil greenhouse gas emissions at the University of Helsinki, analysing data in **R** and **JMP**. My doctoral studies are currently on hold. I hold an MSc in Forest Sciences (University of Helsinki) and a BEng in Forestry (Federal University of Espírito Santo).
 
-🌐 **Portfolio:** [c-riku.github.io](https://c-riku.github.io/) · short link [iki.fi/caius.ribeiro](https://iki.fi/caius.ribeiro)
+🌐 **Portfolio:** [caiusribeiro.github.io](https://caiusribeiro.github.io/) · short link [iki.fi/caius.ribeiro](https://iki.fi/caius.ribeiro)
 
 ### Featured work
 
 | Project | What it shows |
 |---|---|
-| [sql-projects](https://github.com/c-riku/sql-projects) | MySQL data cleaning and exploratory analysis (US household income, world life expectancy) |
-| [Fire & GHG review – R notebook](https://c-riku.github.io/datainbrief-1-R-scripts/) | Reproducible R analysis for a systematic review ([paper](https://doi.org/10.1016/j.envres.2020.109328), [data](https://data.mendeley.com/datasets/v7gxtvv9z3/1)) |
-| [Hemiboreal fire emissions – R notebook](https://c-riku.github.io/datainbrief-2-R-scripts/) | R data processing and analysis of field GHG measurements ([paper](https://doi.org/10.1016/j.scitotenv.2019.135291)) |
-| [licenses-and-certifications](https://github.com/c-riku/licenses-and-certifications) | Courses in Power BI, Power Platform, SQL, R and machine learning |
+| [sql-projects](https://github.com/caiusribeiro/sql-projects) | MySQL data cleaning and exploratory analysis (US household income, world life expectancy) |
+| [Fire & GHG review – R notebook](https://caiusribeiro.github.io/datainbrief-1-R-scripts/) | Reproducible R analysis for a systematic review ([paper](https://doi.org/10.1016/j.envres.2020.109328), [data](https://data.mendeley.com/datasets/v7gxtvv9z3/1)) |
+| [Hemiboreal fire emissions – R notebook](https://caiusribeiro.github.io/datainbrief-2-R-scripts/) | R data processing and analysis of field GHG measurements ([paper](https://doi.org/10.1016/j.scitotenv.2019.135291)) |
+| [licenses-and-certifications](https://github.com/caiusribeiro/licenses-and-certifications) | Courses in Power BI, Power Platform, SQL, R and machine learning |
 
 ### Tools
 **Use daily:** Power BI · DAX · SQL · Snowflake · Microsoft Fabric · AWS · Power Automate · Python · Terraform · Git
