@@ -18,8 +18,8 @@ Before moving into BI, I researched how forest fires affect soil greenhouse gas 
 | Project | What it shows |
 |---|---|
 | [sql-projects](https://github.com/caiusribeiro/sql-projects) | MySQL data cleaning and exploratory analysis (US household income, world life expectancy) |
-| [Fire & GHG review – R notebook](https://caiusribeiro.github.io/datainbrief-1-R-scripts/) | Reproducible R analysis for a systematic review ([paper](https://doi.org/10.1016/j.envres.2020.109328), [data](https://data.mendeley.com/datasets/v7gxtvv9z3/1)) |
-| [Hemiboreal fire emissions – R notebook](https://caiusribeiro.github.io/datainbrief-2-R-scripts/) | R data processing and analysis of field GHG measurements ([paper](https://doi.org/10.1016/j.scitotenv.2019.135291)) |
+| [Fire & GHG review – R notebook](https://caiusribeiro.github.io/fire-ghg-review-r/) | Reproducible R analysis for a systematic review ([paper](https://doi.org/10.1016/j.envres.2020.109328), [data](https://data.mendeley.com/datasets/v7gxtvv9z3/1)) |
+| [Hemiboreal fire emissions – R notebook](https://caiusribeiro.github.io/hemiboreal-fire-ghg-r/) | R data processing and analysis of field GHG measurements ([paper](https://doi.org/10.1016/j.scitotenv.2019.135291)) |
 | [licenses-and-certifications](https://github.com/caiusribeiro/licenses-and-certifications) | Courses in Power BI, Power Platform, SQL, R and machine learning |
 
 ### Tools
